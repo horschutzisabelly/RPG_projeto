@@ -1,4 +1,4 @@
-// Subclasse de Personagem: Mago (Amun)
+// Subclasse de Personagem
 public class Mago extends Personagem {
 
     public Mago() {
